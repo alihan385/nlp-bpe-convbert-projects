@@ -6,8 +6,8 @@ Two natural language processing projects covering both classical subword tokeniz
 
 | Project | Focus | Highlights |
 | --- | --- | --- |
-| [BPE Tokenizer](./bpe-tokenizer/) | Byte Pair Encoding from scratch | Corpus-driven merge learning, configurable top-k selection, vocabulary construction, token IDs |
-| [ConvBERT NLI](./convbert-nli/) | Natural Language Inference on SNLI | Data analysis, preprocessing, partial fine-tuning, full test evaluation, LLM comparison |
+| [BPE Tokenizer](./bpe-tokenizer/README.md) | Byte Pair Encoding from scratch | Corpus-driven merge learning, configurable top-k selection, vocabulary construction, token IDs |
+| [ConvBERT NLI](./convbert-nli/README.md) | Natural Language Inference on SNLI | Data analysis, preprocessing, partial fine-tuning, full test evaluation, LLM comparison |
 
 ## Key Results
 
